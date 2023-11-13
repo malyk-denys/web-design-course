@@ -1,10 +1,16 @@
 .item{
     float: left;
+    display: block;
+    width: 100%;
+    max-width: 1200px;
+    margin: 0 auto;
+    padding: 20px;
+    box-sizing: border-box;
 }
 .caption{
     text-align: center;
     background-color: deeppink;
-    
+    border: black;
 }
 .row {
 width: 100%;
