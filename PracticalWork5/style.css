@@ -5,9 +5,9 @@
    width: 100%;
 }  
 .main_text{
-  font-size:20px;
+  font: size 36px;
   text-align: center;
-  margin-bottom: 22px;
+  margin-bottom: 24px;
 }
 .caption1, .caption2, .caption3{
   float: right;
