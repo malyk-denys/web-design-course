@@ -1,8 +1,5 @@
 .item{
     float: left;
-    width: 100%;
-    max-width: 1200px;
-    margin-left: 50px;
 }
 .caption{
     text-align: center;
