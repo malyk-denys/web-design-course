@@ -1,35 +1,31 @@
-/* Put some basic styles here */
 .row {
   width: 100%;
 }
-/* Large devices */
-@media (min-width: 1200px) {
-.col-lg-1, .col-lg-2, .col-lg-3, .col-lg-4, .col-lg-5, .col-lg-6, .col-lg-7, .col-lg-8,
-.col-lg-9, .col-lg-10, .col-lg-11, .col-lg-12 {
-float: left;
-border: 1px solid green;
 .col-12{
    width: 100%;
 }  
+.main_text{
+  font-size:20px;
+  text-align: center;
+  margin-bottom: 22px;
+}
 .caption1, .caption2, .caption3{
   float: right;
   border: 2px solid black;
   display: block;
 }
 .caption1{  
-    background: color #790A;
-    color: aliceblue;
+    background-color:#F0A30A;
 }
 .caption2{  
-    background: color #124739;
+    background-color:#D80073;
    color:white;
 }
 .caption3{  
-   background: color #137;
-   color: azure;
+   background-color:#FAD9D5;
 }  
 .block{
-    background-color:aliceblue;
+    background-color:#D5E8D4;
     margin-left:20px;
     margin-right:20px;
     margin-bottom:10px;
@@ -178,15 +174,3 @@ border: 1px solid green;
       width: 100%;
     }  
    } 
-
-
-}
-.col-lg-11 {
-width: 91.66%;
-
-}
-.col-lg-12 {
-width: 100%;
-
-}
-}
