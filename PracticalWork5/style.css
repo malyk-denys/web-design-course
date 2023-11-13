@@ -1,6 +1,15 @@
 .item1{
     float: left;
     box-sizing: border-box;
+    padding-left: ;
+    .item2{
+        float: left;
+        box-sizing: border-box;
+        padding-left: ;
+        .item3{
+            float: left;
+            box-sizing: border-box;
+            padding-left: ;
 }
 .caption{
     text-align: center;
