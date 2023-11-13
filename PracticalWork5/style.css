@@ -1,4 +1,11 @@
-
+.item{
+    float: left;
+}
+.caption{
+    text-align: center;
+    background-color: deeppink;
+    
+}
 .row {
 width: 100%;
 }
