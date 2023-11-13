@@ -1,7 +1,13 @@
-div{
+p{
 background-color: beige;
 border-style: double;
 border-color: black;
+color: dimgray;
+}
+article{
+    background-color: dimgray;
+    color: aliceblue;
+    font-weight: 600;
 }
 .row {
 width: 100%;
