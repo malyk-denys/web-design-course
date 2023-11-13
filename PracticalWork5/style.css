@@ -9,6 +9,7 @@
     text-align: center;
     background-color: deeppink;
     border: black;
+    float: right;
 }
 .row {
 width: 100%;
