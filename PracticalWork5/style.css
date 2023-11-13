@@ -4,7 +4,7 @@ border-style: double;
 border-color: black;
 color: dimgray;
 }
-article{
+.caption{
     background-color: dimgray;
     color: aliceblue;
     font-weight: 600;
