@@ -33,17 +33,17 @@
           }
           
           .links a {
-            flex: 0 0 50%; /* 2 колонки */
+            flex: 0 0 50%;
           }
           
           @media (max-width: 768px) {
             .links a {
-              flex: 0 0 100%; /* 1 колонка */ 
+              flex: 0 0 100%; 
             }  
           }
           
           @media (min-width: 768px) {
             .links a {
-               flex: 0 0 25%; /* 4 колонки */
+               flex: 0 0 25%; 
             }
           }

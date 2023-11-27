@@ -67,4 +67,21 @@
             background: #BF8484;
             color: #330909;
         }
-    
+        .sections {
+            display: flex;
+            flex-wrap: wrap;
+          }
+          
+          .section {
+            flex: 0 0 50%; 
+            /* 2 колонки */
+            padding: 10px;
+            border: 1px solid black;   
+          }
+          
+          @media (max-width: 991px) {
+            .section {
+              flex: 0 0 100%; 
+              /* 1 колонка */
+            }
+          }
