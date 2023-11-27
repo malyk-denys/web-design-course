@@ -26,3 +26,23 @@
         #gallery:visited {
             color: #BD2A78;
         }
+        .links {
+            display: flex;
+            flex-wrap: wrap;
+          }
+          
+          .links a {
+            flex: 0 0 50%; /* 2 колонки */
+          }
+          
+          @media (max-width: 768px) {
+            .links a {
+              flex: 0 0 100%; /* 1 колонка */ 
+            }  
+          }
+          
+          @media (min-width: 768px) {
+            .links a {
+               flex: 0 0 25%; /* 4 колонки */
+            }
+          }
