@@ -1,13 +1,14 @@
 
 .sections {
     display: flex;
-    flex-wrap: wrap;
+    flex-wrap:  row wrap ;
   }
   
   .section {
     flex: 0 0 50%; 
     /* 2 колонки */
     padding: 10px;
+    margin: auto;
     border: 1px solid black;   
   }
   
