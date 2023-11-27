@@ -1,1 +1,28 @@
+    h1 {text-align: center;
+    font-size: 22px;} 
+    .backto{
+      font-style: italic;
+    }
+    h2 {text-align: center;}
+    p {font-size: 24px;}
+    ul {font-size: 24px;}
+    h2 {text-align: center;
+      font-size: 30px;}
+    ol {font: 20px;}
+    .unordered > li:nth-child(odd) {
+      background: grey;
+    }
+    .unordered > li:nth-child(even) {
+      background: white;
+    }
+ 
+    ol > li:nth-child(4) {
+      background: #C191FF;
+    }
+    .list li:nth-child(3) {
+      cursor: pointer;
+    }
+    .list li:nth-child(5) {
+      cursor: pointer;
+    }
 

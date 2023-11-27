@@ -1,1 +1,28 @@
 
+        h1 {text-align: center;
+        font-size: 24px;}
+        p {font-size: 120%;}
+        #biography {
+            color: #0C8EEB;
+        }
+        #nowadays {
+            color: #C843E0;
+        }
+        #friends {
+            color: #7D43E0;
+        }
+        #gallery {
+            color: #E04355;
+        }
+        #biography:visited {
+            color: #9DBD2A;
+        }
+        #nowadays:visited {
+            color: #2ABD4A;
+        }
+        #friends:visited {
+            color: #BD402A;
+        }
+        #gallery:visited {
+            color: #BD2A78;
+        }
