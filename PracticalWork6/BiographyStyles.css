@@ -212,3 +212,26 @@ body{
             color: #330909;
         }
         
+        .section article{
+          border: 2px solid black;
+          margin: 5px;
+      
+         
+      }
+      
+      .section article{
+          flex-direction: column;
+          height: 100%; /* Встановлюємо висоту блока на 100% */
+      }
+      .section a{
+          height: 5%;
+          display: block;
+      }
+      
+      .section{
+          box-sizing: border-box;
+      }
+      .column{
+          height:95%;
+          display: block;
+      }
