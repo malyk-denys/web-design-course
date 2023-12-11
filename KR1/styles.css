@@ -18,16 +18,12 @@
 background-color: brown;
 color: white;
 flex-basis: 0;
-height: 300;
-width: 350;
 }
 .block2{
   position: relative;
   background-color: rgb(61, 220, 220);
   color: dimgrey;
   flex-basis: 0;
-  height: 300;
-width: 350;
 }
 
 
@@ -36,8 +32,6 @@ width: 350;
   background-color: black;
   color: aliceblue;
   flex-basis: 0;
-  height: 300;
-width: 350;
 }
 
 .block4{
@@ -45,8 +39,6 @@ width: 350;
   background-color: blueviolet;
   color: whitesmoke;
   flex-basis: 0;
-  height: 300;
-width: 350;
 }
 
 .h4-block1 {
